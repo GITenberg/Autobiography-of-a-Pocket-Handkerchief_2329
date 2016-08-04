@@ -1,0 +1,40 @@
+_repo: Autobiography-of-a-Pocket-Handkerchief_2329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: Set in Paris and New York in the 1830s, this fable is narrated by a pocket
+  handkerchief, an article which at that time was used more for show than for blow.
+  It is, thus, distinguished for its beauty rather than for the function of ordinary
+  handkerchiefs. It begins its autobiography by establishing its ancestry back through
+  several generations of flax plants, starting in America and then moving to France
+  when a large shipment of flaxseed was captured by a French privateer. Every flax
+  plant and its linen offspring enjoy a special kind of clairvoyance which unites
+  their perceptions with those of both their vegetable ancestors and their human associates.
+  For this reason all pieces of linen are wiser and better informed than is generally
+  supposed, and the observations of a sophisticated pocket handkerchief provide a
+  most fitting vehicle for the broad social satire of the story.
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Handkerchiefs -- Fiction'
+- !lcsh 'Fables'
+- !lcc 'PS'
+- GITenberg
+title: Autobiography of a Pocket-Handkerchief
+url: http://www.gutenberg.org/ebooks/2329
