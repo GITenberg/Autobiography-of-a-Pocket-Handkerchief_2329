@@ -1,5 +1,8 @@
 _repo: Autobiography-of-a-Pocket-Handkerchief_2329
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -23,6 +26,8 @@ description: Set in Paris and New York in the 1830s, this fable is narrated by a
   For this reason all pieces of linen are wiser and better informed than is generally
   supposed, and the observations of a sophisticated pocket handkerchief provide a
   most fitting vehicle for the broad social satire of the story.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2329#Autobiography-of-a-Pocket-Handkerchief
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
 identifiers:
